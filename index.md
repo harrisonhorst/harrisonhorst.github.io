@@ -1,3 +1,4 @@
+# Harrison Horst
 ## About Me
 I am an early-career data analyst who specializes in the analysis of public data, combining years of GIS mapping 
 experience with intimate knowledge of census and governmental data. Most recently, I worked as a Community Data Analyst
