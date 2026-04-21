@@ -11,6 +11,10 @@ non-profit and completed an M.A. in Sustainable Urban Development with a certifi
 ## Projects
 See some of my work.
 
+### Supermarkets and Gentrification
+[Published Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRUovCXwEECyWZZmtieG2bOraZ_3RkrqSRfTRr7wPqzJ11I8jHtc9RFQPKA4J4D9hXIjUzVE8AkJ6PJ/pub?start=false&loop=false&delayms=3000)
+
+
 ### Census Retriever
 ### Nonprofit Data Processing
 ### HMDA Analysis
