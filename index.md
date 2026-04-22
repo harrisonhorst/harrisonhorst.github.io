@@ -7,6 +7,7 @@ and risk & monitoring assessments. Before starting at IFF, I worked on asset map
 non-profit and completed an M.A. in Sustainable Urban Development with a certificate in Sustainable Food Systems. I'm passionate about community development, non-profit partnerships, data storytelling, and climate justice. I also have qualifying skills in communication with professional experience in ESL instruction, tutoring, journalism, and podcasting.
 
 [LinkedIn](https://linkedin.com/in/harrison-horst)
+![profile photo of Harrison Horst](images/profile-square.jpg)
 
 ## Projects
 See some of my work.
