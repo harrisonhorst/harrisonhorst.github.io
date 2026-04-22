@@ -1,7 +1,7 @@
 # Harrison Horst
 ## About Me
 <p align="center">
-  <img src="images/profile-square.jpg" alt="Harrison Horst width="150">
+  <img src="images/profile-square.jpg" alt="Harrison Horst" width="200">
 </p>
 I am an early-career data analyst who specializes in the analysis of public data, combining years of GIS mapping 
 experience with intimate knowledge of census and governmental data. Most recently, I worked as a Community Data Analyst
