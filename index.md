@@ -12,7 +12,7 @@ non-profit and completed an M.A. in Sustainable Urban Development with a certifi
 [LinkedIn](https://linkedin.com/in/harrison-horst)
 
 ## Projects
-See some of my work.
+See some of my work...more to come soon. 
 
 ### Supermarkets and Gentrification
 [Published Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRUovCXwEECyWZZmtieG2bOraZ_3RkrqSRfTRr7wPqzJ11I8jHtc9RFQPKA4J4D9hXIjUzVE8AkJ6PJ/pub?start=false&loop=false&delayms=3000)
