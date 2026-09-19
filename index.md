@@ -20,5 +20,5 @@ See some of my work...more to come soon.
 
 ### Census Retriever
 ### Nonprofit Data Processing
-[Nonprofit Density Analysis] ([https://harrisonhorst.github.io/nonproft_analysis/](url))
+[Nonprofit Density Analysis] (https://harrisonhorst.github.io/nonproft_analysis/)
 ### HMDA Analysis
